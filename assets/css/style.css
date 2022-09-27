@@ -696,6 +696,9 @@ section {
 /*--------------------------------------------------------------
 # Featured Services
 --------------------------------------------------------------*/
+.featured-services{
+  margin-top: 20px !important;
+}
 .featured-services .icon-box {
   padding: 30px;
   position: relative;
@@ -729,7 +732,7 @@ section {
   margin-bottom: 15px;
 }
 
-.featured-services .icon i {
+.featured-services .icon svg {
   font-size: 48px;
   line-height: 1;
   color: #F6C869;
@@ -761,7 +764,7 @@ section {
   color: #fff;
 }
 
-.featured-services .icon-box:hover .icon i {
+.featured-services .icon-box:hover .icon svg {
   color: #fff;
 }
 
