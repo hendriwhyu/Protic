@@ -732,7 +732,7 @@ section {
   margin-bottom: 15px;
 }
 
-.featured-services .icon svg {
+.featured-services .icon img::before{
   font-size: 48px;
   line-height: 1;
   color: #F6C869;
@@ -764,7 +764,7 @@ section {
   color: #fff;
 }
 
-.featured-services .icon-box:hover .icon svg {
+.featured-services .icon-box:hover .icon img{
   color: #fff;
 }
 
