@@ -757,15 +757,15 @@ section {
 
 .featured-services .icon-box:hover .title a,
 .featured-services .icon-box:hover .description {
-  color: #fff;
+  color: #111;
 }
 
 .featured-services .icon-box:hover .title{
-  color: #fff;
+  color: #111;
 }
 
 .featured-services .icon-box:hover .icon img{
-  color: #fff;
+  color: #111;
 }
 
 /*--------------------------------------------------------------
