@@ -866,7 +866,7 @@ section {
   background: #f1f6fe;
 }
 
-.counts .count-box i {
+.counts .count-box svg {
   position: absolute;
   top: -28px;
   left: 50%;
