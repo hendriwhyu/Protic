@@ -732,10 +732,10 @@ section {
   margin-bottom: 15px;
 }
 
-.featured-services .icon img::before{
+.featured-services .icon svg{
   font-size: 48px;
   line-height: 1;
-  color: #F6C869;
+  fill: black;
   transition: all 0.3s ease-in-out;
 }
 
@@ -746,7 +746,7 @@ section {
 }
 
 .featured-services .title a {
-  color: #111;
+  color: #fff;
 }
 
 .featured-services .description {
@@ -757,15 +757,15 @@ section {
 
 .featured-services .icon-box:hover .title a,
 .featured-services .icon-box:hover .description {
-  color: #111;
+  color: #fff;
 }
 
 .featured-services .icon-box:hover .title{
-  color: #111;
+  color: #fff;
 }
 
-.featured-services .icon-box:hover .icon img{
-  color: #111;
+.featured-services .icon-box:hover .icon svg{
+  fill: #fff;
 }
 
 /*--------------------------------------------------------------
